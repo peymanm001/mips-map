@@ -1,0 +1,119 @@
+# depslib dependency file v1.0
+1402121966 source:c:\users\mohammad\code blocks\map_map(gui)\alu.c
+	"header.h"
+
+1402061288 c:\users\mohammad\code blocks\map_map(gui)\header.h
+	"Windows.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"math.h"
+	"tchar.h"
+	"direct.h"
+	"windef.h"
+	"structures.c"
+
+1402122173 c:\users\mohammad\code blocks\map_map(gui)\structures.c
+
+1402121983 source:c:\users\mohammad\code blocks\map_map(gui)\assembler.c
+	"header.h"
+	"string.h"
+
+1402121997 source:c:\users\mohammad\code blocks\map_map(gui)\cu.c
+	"header.h"
+
+1402122008 source:c:\users\mohammad\code blocks\map_map(gui)\datamem.c
+	"header.h"
+
+1402122023 source:c:\users\mohammad\code blocks\map_map(gui)\ex_mem.c
+	"header.h"
+
+1402122076 source:c:\users\mohammad\code blocks\map_map(gui)\functions.c
+	"header.h"
+
+1402122095 source:c:\users\mohammad\code blocks\map_map(gui)\id_ex.c
+	"header.h"
+
+1402122108 source:c:\users\mohammad\code blocks\map_map(gui)\if_id.c
+	"header.h"
+
+1402122120 source:c:\users\mohammad\code blocks\map_map(gui)\insmem.c
+	"header.h"
+
+1402159763 source:c:\users\mohammad\code blocks\map_map(gui)\main.c
+	"resource.h"
+	"Header.h"
+
+1402158837 c:\users\mohammad\code blocks\map_map(gui)\resource.h
+
+1402122149 source:c:\users\mohammad\code blocks\map_map(gui)\mem_wb.c
+	"header.h"
+
+1402159563 source:c:\users\mohammad\code blocks\map_map(gui)\mips.rc
+	"resource.h"
+	"windows.h"
+
+1402122159 source:c:\users\mohammad\code blocks\map_map(gui)\regfile.c
+	"header.h"
+
+1402122173 source:c:\users\mohammad\code blocks\map_map(gui)\structures.c
+
+1402121968 source:c:\users\peyman\desktop\map_map(gui_final)\alu.c
+	"header.h"
+
+1402061290 c:\users\peyman\desktop\map_map(gui_final)\header.h
+	"Windows.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"math.h"
+	"tchar.h"
+	"direct.h"
+	"windef.h"
+	"structures.c"
+
+1402122174 c:\users\peyman\desktop\map_map(gui_final)\structures.c
+
+1402257113 source:c:\users\peyman\desktop\map_map(gui_final)\assembler.c
+	"header.h"
+	"string.h"
+
+1402121998 source:c:\users\peyman\desktop\map_map(gui_final)\cu.c
+	"header.h"
+
+1402122010 source:c:\users\peyman\desktop\map_map(gui_final)\datamem.c
+	"header.h"
+
+1402122024 source:c:\users\peyman\desktop\map_map(gui_final)\ex_mem.c
+	"header.h"
+
+1402122078 source:c:\users\peyman\desktop\map_map(gui_final)\functions.c
+	"header.h"
+
+1402122096 source:c:\users\peyman\desktop\map_map(gui_final)\id_ex.c
+	"header.h"
+
+1402122110 source:c:\users\peyman\desktop\map_map(gui_final)\if_id.c
+	"header.h"
+
+1402122122 source:c:\users\peyman\desktop\map_map(gui_final)\insmem.c
+	"header.h"
+
+1402122150 source:c:\users\peyman\desktop\map_map(gui_final)\mem_wb.c
+	"header.h"
+
+1402258004 source:c:\users\peyman\desktop\map_map(gui_final)\mips.rc
+	"resource.h"
+	"windows.h"
+
+1402158838 c:\users\peyman\desktop\map_map(gui_final)\resource.h
+
+1402122160 source:c:\users\peyman\desktop\map_map(gui_final)\regfile.c
+	"header.h"
+
+1402122174 source:c:\users\peyman\desktop\map_map(gui_final)\structures.c
+
+1402257957 source:c:\users\peyman\desktop\map_map(gui_final)\main.c
+	"resource.h"
+	"Header.h"
+
